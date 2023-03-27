@@ -10,5 +10,6 @@ Progress so far:
 - [x] Chapter 2. Programming == Joy: A Whistle-Stop Tour of Ruby and Object Orientation
 - [x] Chapter 3. Ruby's building Blocks: Data, Expressions, and Flow Control
 - [x] Chapter 4. Developing Your First Ruby Application
-- [x] Chapter 5. The ruby ecosystem
-- [ ] Chapter 4. Developing Your First Ruby Application
+- [x] Chapter 5. The Ruby Ecosystem
+- [x] Chapter 6. Classes, Objects, and Modules
+- [ ] Chapter 7. Projects and Libraries
