@@ -12,4 +12,5 @@ Progress so far:
 - [x] Chapter 4. Developing Your First Ruby Application
 - [x] Chapter 5. The Ruby Ecosystem
 - [x] Chapter 6. Classes, Objects, and Modules
-- [ ] Chapter 7. Projects and Libraries
+- [x] Chapter 7. Projects and Libraries
+- [ ] Chapter 8. Documentation, Error Handling, Debuggin, and Testing
