@@ -13,4 +13,5 @@ Progress so far:
 - [x] Chapter 5. The Ruby Ecosystem
 - [x] Chapter 6. Classes, Objects, and Modules
 - [x] Chapter 7. Projects and Libraries
-- [ ] Chapter 8. Documentation, Error Handling, Debuggin, and Testing
+- [x] Chapter 8. Documentation, Error Handling, Debuggin, and Testing
+- [ ] Chapter 9. Files and Databases
