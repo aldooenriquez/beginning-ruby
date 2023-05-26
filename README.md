@@ -15,4 +15,5 @@ Progress so far:
 - [x] Chapter 7. Projects and Libraries
 - [x] Chapter 8. Documentation, Error Handling, Debuggin, and Testing
 - [x] Chapter 9. Files and Databases
-- [ ] Chapter 10. Distributing Ruby Code and Libraries
+- [x] Chapter 10. Distributing Ruby Code and Libraries
+- [x] Chapter 11. Advanced Ruby Features
