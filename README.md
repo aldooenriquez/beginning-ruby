@@ -17,4 +17,5 @@ Progress so far:
 - [x] Chapter 9. Files and Databases
 - [x] Chapter 10. Distributing Ruby Code and Libraries
 - [x] Chapter 11. Advanced Ruby Features
-- [ ] Chapter 12. Tying It Together: Developing a Larger Ruby Application
+- [x] Chapter 12. Tying It Together: Developing a Larger Ruby Application
+- [ ] Chapter 13. Two Web Application Approaches: Rails and Sinatra
