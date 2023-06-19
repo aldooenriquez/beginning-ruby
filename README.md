@@ -20,4 +20,5 @@ Progress so far:
 - [x] Chapter 12. Tying It Together: Developing a Larger Ruby Application
 - [x] Chapter 13. Two Web Application Approaches: Rails and Sinatra
 - [x] Chapter 14. Ruby and the Internet
-- [ ] Chapter 15. Networking and Sockets
+- [x] Chapter 15. Networking and Sockets
+- [ ] Chapter 16. Useful Ruby Libraries
