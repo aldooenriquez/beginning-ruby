@@ -21,4 +21,6 @@ Progress so far:
 - [x] Chapter 13. Two Web Application Approaches: Rails and Sinatra
 - [x] Chapter 14. Ruby and the Internet
 - [x] Chapter 15. Networking and Sockets
-- [ ] Chapter 16. Useful Ruby Libraries
+- [x] Chapter 16. Useful Ruby Libraries
+
+Finished: June '23
